@@ -7,3 +7,4 @@ classes/
 # Abaikan file sementara OS
 .DS_Store
 *.swp
+*.zip

@@ -1,0 +1,8 @@
+Matematika 80
+Fisika 70
+Matematika 95
+Kimia 85
+Fisika 90
+Matematika 65
+Kimia 88
+Fisika 60

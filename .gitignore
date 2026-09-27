@@ -1,1 +1,9 @@
 *.pdf
+# Abaikan folder hasil kompilasi dan file JAR
+classes/
+*.class
+*.jar
+
+# Abaikan file sementara OS
+.DS_Store
+*.swp
